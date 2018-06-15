@@ -26,6 +26,14 @@ h3 {
   color: white;
 }
 
+
+
+
+div.titles {
+  font-size: 14px;
+  color: black;
+}
+
 p {
   font-size: 14px;
   font-family: helvetica;
