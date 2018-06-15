@@ -7,14 +7,15 @@ h1 {
 }
 
 h2 {
-  font-family: helvetica;
+font-family: helvetica;
 font-size: 32px;
 font-weight: bold;
+color: white,
 }
 
 h4 {
   font-family: helvetica;
-  font-size: 18px
+  font-size: 25px;
   color: white;
 }
 
@@ -22,6 +23,7 @@ h3 {
   font-family: helvetica;
   font-size: 32px
   font-weight: bold;
+  color: white;
 }
 
 p {
@@ -29,11 +31,11 @@ p {
   font-family: helvetica;
 }
 
-h1 {
+div {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
-h2.secondary {
+div.secondary {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 font-size: 20px;
 color: white;}
